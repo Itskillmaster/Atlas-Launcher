@@ -5,3 +5,10 @@ The Best Minecraft Launcher With Node.js and Best UI and Login system and update
 
 <img width="1000" height="707" alt="Screenshot 2026-06-02 152944" src="https://github.com/user-attachments/assets/b2e8f303-82d1-49d1-8a9c-e1c0f6cbe243" />
 
+
+
+for fist run `npm install` and run `npm start` 
+
+for build run `npm run build`
+
+if this project helps you give that star
